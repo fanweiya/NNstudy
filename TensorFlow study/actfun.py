@@ -1,0 +1,3 @@
+#relu
+#sigmod
+#tranh
